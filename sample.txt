@@ -1,6 +1,7 @@
 .
 ├── .git
 │   ├── branches
+│   ├── COMMIT_EDITMSG
 │   ├── config
 │   ├── description
 │   ├── HEAD
@@ -18,14 +19,44 @@
 │   │   ├── pre-receive.sample
 │   │   ├── push-to-checkout.sample
 │   │   └── update.sample
+│   ├── index
 │   ├── info
 │   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   ├── br1005
+│   │       │   └── master
+│   │       └── remotes
+│   │           └── origin
+│   │               └── master
 │   ├── objects
+│   │   ├── 0f
+│   │   │   └── 1a5105afab0f7f0e9a7cd92c9eeb3a7ff2c402
+│   │   ├── 41
+│   │   │   └── 175fcae2362af052d3b5762023840363af7780
+│   │   ├── 74
+│   │   │   └── 78f839a42c70cdfd705c94ea591d463b4169c9
+│   │   ├── 7b
+│   │   │   └── c54f97d6846c95ad0c389ae465030a309bada0
+│   │   ├── 7d
+│   │   │   └── 506b054d3528df074a061649310eb2b429b758
+│   │   ├── c8
+│   │   │   └── 7b463f622aadf714fbea7533569d4be7f9cbb8
+│   │   ├── f7
+│   │   │   └── 2c9b2f5055a8df052960bdf8ffa370820c54c0
 │   │   ├── info
 │   │   └── pack
+│   ├── packed-refs
 │   └── refs
 │       ├── heads
+│       │   ├── br1005
+│       │   └── master
+│       ├── remotes
+│       │   └── origin
+│       │       └── master
 │       └── tags
 └── sample.txt
 
-10 directories, 18 files
+24 directories, 35 files
