@@ -1,0 +1,1 @@
+uid=1000(dunice) gid=1000(dunice) группы=1000(dunice),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users),118(lpadmin)
